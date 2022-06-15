@@ -1,0 +1,764 @@
+{
+    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA",
+    "derivatives": [
+        {
+            "hasThumbnail": "true",
+            "children": [
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/model.sdb",
+                    "role": "Autodesk.CloudPlatform.PropertyDatabase",
+                    "mime": "application/autodesk-db",
+                    "guid": "6fac95cb-af5d-3e4f-b943-8a7f55847ff1",
+                    "type": "resource",
+                    "status": "success"
+                },
+                {
+                    "guid": "6d6ee121-36ce-cc80-19eb-1bd5ff0085fa",
+                    "type": "geometry",
+                    "role": "3d",
+                    "name": "{3D}",
+                    "viewableID": "0b04bea8-5792-464d-9ded-8b1577a44d9c-001631ac",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "hasThumbnail": "true",
+                    "progress": "complete",
+                    "children": [
+                        {
+                            "guid": "0b04bea8-5792-464d-9ded-8b1577a44d9c-001631ac",
+                            "type": "view",
+                            "role": "3d",
+                            "name": "{3D}",
+                            "status": "success",
+                            "progress": "complete",
+                            "camera": [
+                                118.24480438232422,
+                                -118.41557312011719,
+                                102.57135009765625,
+                                18.449783325195312,
+                                -18.62055206298828,
+                                2.7763290405273438,
+                                -0.40824830532073975,
+                                0.40824830532073975,
+                                0.8164966106414795,
+                                1.1217641830444336,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D_View/_3D_ 1454508/_3D_.svf",
+                            "role": "graphics",
+                            "mime": "application/autodesk-svf",
+                            "guid": "2b8b1cf8-31bf-7e71-dfb5-e1d4342ddb82",
+                            "type": "resource"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D_View/_3D_ 1454508/_3D_1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "d6fe4875-e19c-7868-61bf-2e6d0b45eb19",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D_View/_3D_ 1454508/_3D_2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "2f2907aa-6d47-1ef4-e948-ad28125eb6b4",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D_View/_3D_ 1454508/_3D_4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "dff2977f-28f4-43e1-6843-f82ea4fb14c7",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        }
+                    ]
+                },
+                {
+                    "guid": "a9d9fe86-88f5-4836-b02e-9316a01bd745-00163b51",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S001 - Title Sheet",
+                    "viewableID": "a9d9fe86-88f5-4836-b02e-9316a01bd745-00163b51",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S001___Title_Sheet 1456977/dwfx/S001___Title_Sheet1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "323db0e8-6e73-dd64-7042-c5fe85f4c5b4",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S001___Title_Sheet 1456977/dwfx/S001___Title_Sheet2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "2f7b737b-6cdf-9d64-24d8-985a14d1ee23",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S001___Title_Sheet 1456977/dwfx/S001___Title_Sheet4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "21a82990-5810-b0ee-4a5f-b5ab390772d9",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/257a037e-cf01-7d3a-c84f-09deb36aea80_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "43dfbfac-665e-83df-f634-98d16a3e085f",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "9a3737ab-d983-4870-89b9-830e1ac6e663",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S001 - Title Sheet",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163b84",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S101 - Framing Plans",
+                    "viewableID": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163b84",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S101___Framing_Plans 1457028/dwfx/S101___Framing_Plans1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "0d12e3fd-642d-3d59-91a3-881767e9b35b",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S101___Framing_Plans 1457028/dwfx/S101___Framing_Plans2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "a378273c-6471-9102-e4eb-4139a64a2b94",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S101___Framing_Plans 1457028/dwfx/S101___Framing_Plans4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "ad97ae01-adc6-c748-955f-498e928054f7",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/073e2629-3443-1a13-47d2-b37c97852c58_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "d92aa61a-c37b-a1aa-f5bb-118624a6ec26",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "597d52bd-808a-4c0a-a613-2532204955df",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S101 - Framing Plans",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163b95",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S201 - Upper House Framing",
+                    "viewableID": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163b95",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S201___Upper_House_Framing 1457045/dwfx/S201___Upper_House_Framing1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "97dba812-ee46-d0b0-2dfa-7ed1928634fe",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S201___Upper_House_Framing 1457045/dwfx/S201___Upper_House_Framing2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "24d94847-1a4f-990c-7d0a-93a9866569bd",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S201___Upper_House_Framing 1457045/dwfx/S201___Upper_House_Framing4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "f4a320e7-94ed-54e8-c72a-be0f309aedc9",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/5d41be61-4afd-4b00-399a-129a23be01a3_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "fb190d46-a95b-19dd-65e9-f857a1d9ae59",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "2315b67f-ccf3-44c9-aeb0-1d6beb470227",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S201 - Upper House Framing",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163ba8",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S202 - Wall Section",
+                    "viewableID": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163ba8",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S202___Wall_Section 1457064/dwfx/S202___Wall_Section1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "d5d7f900-946a-c512-a62e-10533cb9f349",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S202___Wall_Section 1457064/dwfx/S202___Wall_Section2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "fff0a587-8a8e-1e05-78f0-a918dcb5aab6",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S202___Wall_Section 1457064/dwfx/S202___Wall_Section4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "3d64a9ee-2a63-7cf4-0639-7c17419a6d75",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/364e527f-ef35-7340-a523-59f35c8fea73_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "57696e58-7b6a-bde9-34b5-010154f600b6",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "ebdff649-bbf3-45f2-be53-610b15c7070a",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S202 - Wall Section",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163bff",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S203 - Central Pile Section",
+                    "viewableID": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163bff",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S203___Central_Pile_Section 1457151/dwfx/S203___Central_Pile_Section1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "a9d83b11-490b-7674-614c-1b8b1f84320c",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S203___Central_Pile_Section 1457151/dwfx/S203___Central_Pile_Section2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "d005169c-d91b-109f-bf0a-0f2bff004898",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S203___Central_Pile_Section 1457151/dwfx/S203___Central_Pile_Section4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "f44fde9e-f9b5-2caf-cb91-2c772841ccff",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/435251f1-b30a-b861-07ee-4b9b6bb1d750_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "79e1f1c7-e005-441f-6558-78235e84da31",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "e485bbfe-df2a-4ad7-8d3e-2c4aca24a669",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S203 - Central Pile Section",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163c1d",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S204 - Footing Detail",
+                    "viewableID": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163c1d",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S204___Footing_Detail 1457181/dwfx/S204___Footing_Detail1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "9819ebc5-3387-b3a9-8179-b22689bffe8e",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S204___Footing_Detail 1457181/dwfx/S204___Footing_Detail2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "87eaea29-9012-fab3-fb0a-f94003de14d4",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S204___Footing_Detail 1457181/dwfx/S204___Footing_Detail4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "b9b274c7-74af-225f-1804-f460158210a0",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/5bde397a-61a8-a2a5-0f20-9a69d371b35c_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "daac09be-5d59-16f1-360b-31876f676f90",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "e032d3b0-ec5b-44d2-88d0-38e0e17db5bf",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S204 - Footing Detail",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163c2f",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S205 - Column Schedules",
+                    "viewableID": "505917d5-31be-41b4-bed7-c50d88f9b35f-00163c2f",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S205___Column_Schedules 1457199/dwfx/S205___Column_Schedules1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "0775fa07-ceb8-00b7-3304-d5833830647e",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S205___Column_Schedules 1457199/dwfx/S205___Column_Schedules2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "969fcb12-c378-343f-d8c8-ebde1f03f650",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S205___Column_Schedules 1457199/dwfx/S205___Column_Schedules4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "a28a5ac2-3084-8533-05e7-7c048b2e6c9b",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/c1682652-346d-1695-33c6-e3d101d6e003_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "cb053d48-daca-55b6-02c4-2384c442e95b",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "98973281-c4bb-4290-bd17-07de10e2f4db",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S205 - Column Schedules",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "6ae0816c-a18d-4426-945d-98376a9e9057-00163c4c",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "S206 - Elevations",
+                    "viewableID": "6ae0816c-a18d-4426-945d-98376a9e9057-00163c4c",
+                    "phaseNames": "New Construction",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S206___Elevations 1457228/dwfx/S206___Elevations1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "cea0d57f-1970-2c01-6bb9-dd8697350fd9",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S206___Elevations 1457228/dwfx/S206___Elevations2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "c7338e36-4c51-ee97-7630-d060bc6eebbf",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/S206___Elevations 1457228/dwfx/S206___Elevations4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "33b5c551-e9eb-21c7-9b90-afd20d702bd6",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/ad29c6dc-c675-9e6e-00f4-ad2e558fee22_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "5e777312-ec7c-d8aa-621f-ec5448645823",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "572d2a2a-2419-4216-9528-fffdc31fce60",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: S206 - Elevations",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "name": "rst_basic_sample_project_svf.rvt",
+            "progress": "complete",
+            "outputType": "svf",
+            "properties": {
+                "Document Information": {
+                    "RVTVersion": "2016",
+                    "Project Name": "Sample House",
+                    "Project Number": "001-00",
+                    "Author": "",
+                    "Project Address": "Enter address here",
+                    "Project Issue Date": "Issue Date",
+                    "Project Status": "Project Status",
+                    "Building Name": "",
+                    "Client Name": "Autodesk",
+                    "Organization Name": "",
+                    "Organization Description": ""
+                }
+            },
+            "status": "success"
+        },
+        {
+            "children": [
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/preview1.png",
+                    "role": "thumbnail",
+                    "mime": "image/png",
+                    "guid": "db899ab5-939f-e250-d79d-2d1637ce4565",
+                    "type": "resource",
+                    "resolution": [
+                        100,
+                        100
+                    ],
+                    "status": "success"
+                },
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/preview2.png",
+                    "role": "thumbnail",
+                    "mime": "image/png",
+                    "guid": "3f6c118d-f551-7bf0-03c9-8548d26c9772",
+                    "type": "resource",
+                    "resolution": [
+                        200,
+                        200
+                    ],
+                    "status": "success"
+                },
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/preview4.png",
+                    "role": "thumbnail",
+                    "mime": "image/png",
+                    "guid": "4e751806-0920-ce32-e9fd-47c3cec21536",
+                    "type": "resource",
+                    "resolution": [
+                        400,
+                        400
+                    ],
+                    "status": "success"
+                }
+            ],
+            "progress": "complete",
+            "outputType": "thumbnail",
+            "status": "success"
+        }
+    ],
+    "hasThumbnail": "true",
+    "progress": "complete",
+    "type": "manifest",
+    "region": "US",
+    "version": "1.0",
+    "status": "success"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "forge-viewer-offline-demo",
+  "version": "1.0.0",
+  "description": "This sample demonstrates how to make minimap and levels extension work with Forge Viewer offline mode.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:yiskang/forge-viewer-offline-mode-demo.git"
+  },
+  "keywords": [],
+  "author": "yiskang <eason.kang@autodesk.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yiskang/forge-viewer-offline-mode-demo/issues"
+  },
+  "homepage": "https://github.com/yiskang/forge-viewer-offline-mode-demo",
+  "dependencies": {
+  }
+}

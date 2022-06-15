@@ -1,0 +1,648 @@
+{
+    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA",
+    "derivatives": [
+        {
+            "hasThumbnail": "true",
+            "children": [
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/model.sdb",
+                    "role": "Autodesk.CloudPlatform.PropertyDatabase",
+                    "mime": "application/autodesk-db",
+                    "guid": "6fac95cb-af5d-3e4f-b943-8a7f55847ff1",
+                    "type": "resource",
+                    "status": "success"
+                },
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/AECModelData.json",
+                    "role": "Autodesk.AEC.ModelData",
+                    "mime": "application/json",
+                    "guid": "a4aac952-a3f4-031c-4113-b2d9ac2d0de6",
+                    "type": "resource",
+                    "status": "success"
+                },
+                {
+                    "guid": "250a6ce5-ee70-fdca-bfc9-4111f54e9baa",
+                    "type": "geometry",
+                    "role": "3d",
+                    "name": "{3D}",
+                    "viewableID": "44745acb-ebea-4fb9-a091-88d28bd746c7-000ea86d",
+                    "phaseNames": "Working Drawings",
+                    "status": "success",
+                    "hasThumbnail": "true",
+                    "progress": "complete",
+                    "children": [
+                        {
+                            "guid": "44745acb-ebea-4fb9-a091-88d28bd746c7-000ea86d",
+                            "type": "view",
+                            "role": "3d",
+                            "name": "{3D}",
+                            "status": "success",
+                            "progress": "complete",
+                            "camera": [
+                                -179.7307891845703,
+                                -280.7525634765625,
+                                195.49920654296875,
+                                -1.5187797546386719,
+                                -48.585296630859375,
+                                10.43277645111084,
+                                0.32541951537132263,
+                                0.4239431619644165,
+                                0.8452066779136658,
+                                1.261474370956421,
+                                0,
+                                1,
+                                1
+                            ],
+                            "sectionBox": [
+                                -91.74055543115512,
+                                -128.7106963555164,
+                                -43.86306049787754,
+                                73.72182843996336,
+                                102.14348147221642,
+                                43.86306049787754
+                            ],
+                            "sectionBoxTransform": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                7.490584571623472,
+                                -35.301688369093256,
+                                16.574984609141843,
+                                1
+                            ]
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D View/{3D} 960621/{3D}.svf",
+                            "role": "graphics",
+                            "mime": "application/autodesk-svf",
+                            "guid": "6bfb4886-f2ee-9ccb-8db0-c5c170220c40",
+                            "type": "resource"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D View/{3D} 960621/{3D}1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "59793754-3f96-a1aa-a227-b183c61a3e2b",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D View/{3D} 960621/{3D}2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "72ed64e1-86c1-27c6-6aea-53a8471d8058",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/3D View/{3D} 960621/{3D}4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "7617fb7e-2274-2fa7-2fde-a0e7ae4faa72",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        }
+                    ]
+                },
+                {
+                    "guid": "6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d699",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "A102 - Plans",
+                    "viewableID": "6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d699",
+                    "phaseNames": "Working Drawings",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A102 - Plans 382617/dwfx/A102 - Plans1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "94a13396-cab7-17d9-43df-511de85acd16",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A102 - Plans 382617/dwfx/A102 - Plans2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "417a5a56-1d60-cf20-5303-217e1bf2ca7f",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A102 - Plans 382617/dwfx/A102 - Plans4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "b2aabe02-2cc6-5454-60fb-fe2c401d2f10",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/5c4adf3b-b5db-240b-ddb4-e1ff2e4a1421_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "abdacd31-f94c-e84f-9a58-4663e281d894",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "5d6ae997-f627-4215-8eda-69635a161167",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: A102 - Plans",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "96cdd175-e436-4cac-a08f-bf0fabb86ac5-0007af95",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "A104 - Elev./Sec./Det.",
+                    "viewableID": "96cdd175-e436-4cac-a08f-bf0fabb86ac5-0007af95",
+                    "phaseNames": "Working Drawings",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A104 - Elev__Sec__Det_ 503701/dwfx/A104 - Elev__Sec__Det_1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "3eacd73d-4ae4-30d0-f315-bc7d9e5d9ded",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A104 - Elev__Sec__Det_ 503701/dwfx/A104 - Elev__Sec__Det_2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "f5544678-39a3-0567-f15f-1c1866b8f7c6",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A104 - Elev__Sec__Det_ 503701/dwfx/A104 - Elev__Sec__Det_4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "7ed24829-0478-4905-2846-d50dff6b6ef0",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/220cc451-4278-62b4-7ec7-db589db04bd3_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "8be5a450-c03d-fcb2-6125-08d5baf4b9d9",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "94b4f7df-38ae-4055-99c8-32a45ea8fd4b",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: A104 - Elev./Sec./Det.",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9ee8",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "A103 - Elevations/Sections",
+                    "viewableID": "f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9ee8",
+                    "phaseNames": "Working Drawings",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A103 - Elevations_Sections 958184/dwfx/A103 - Elevations_Sections1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "28920669-568c-0d6d-b391-c67e931ab81d",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A103 - Elevations_Sections 958184/dwfx/A103 - Elevations_Sections2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "a133ebae-5b89-e688-7025-a09f2a761042",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A103 - Elevations_Sections 958184/dwfx/A103 - Elevations_Sections4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "95f74c13-412a-f986-ee01-28fac48ff7a8",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/5350be07-9a90-7345-cb9a-dbfe36b471ce_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "10f26e65-bbca-7a68-125e-749e559c1e3b",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "e7449195-5cea-4481-baf9-e4fdcebf6d9e",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: A103 - Elevations/Sections",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f2b",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "A105 - Elev./ Stair Sections",
+                    "viewableID": "f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f2b",
+                    "phaseNames": "Working Drawings",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A105 - Elev__ Stair Sections 958251/dwfx/A105 - Elev__ Stair Sections1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "197124fd-7222-b77e-2a7a-5defe29a509b",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A105 - Elev__ Stair Sections 958251/dwfx/A105 - Elev__ Stair Sections2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "47ed6748-b99f-8b41-e540-b5cc5db50ce1",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A105 - Elev__ Stair Sections 958251/dwfx/A105 - Elev__ Stair Sections4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "060ddb1a-9398-45a3-d2bf-1560f8650e6f",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/cadd769e-1613-a8c4-5d4b-9fc62972254c_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "db90b95d-0265-5fe4-376a-4dd3386c3d7d",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "55ed0922-06c6-4fae-b5c8-dd64a56b1f04",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: A105 - Elev./ Stair Sections",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea29f",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "A101 - Site Plan",
+                    "viewableID": "e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea29f",
+                    "phaseNames": "Working Drawings",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A101 - Site Plan 959135/dwfx/A101 - Site Plan1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "ccaa45fd-a10e-aa0a-1bc4-4ce456f6356f",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A101 - Site Plan 959135/dwfx/A101 - Site Plan2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "6e8928d6-0ea0-80d3-e66d-2815cee64d1c",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A101 - Site Plan 959135/dwfx/A101 - Site Plan4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "dfe3c27a-0757-fe54-ed61-984456235f87",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/a1f1dcca-76b3-28b1-2f6a-eca2f1f4b023_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "1fd6b2ec-267d-8ba3-6b00-abe1adf80994",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "0d9abf0c-7267-46a2-b871-82a0a208798c",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: A101 - Site Plan",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea416",
+                    "type": "geometry",
+                    "role": "2d",
+                    "name": "A001 - Title Sheet",
+                    "viewableID": "666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea416",
+                    "status": "success",
+                    "progress": "complete",
+                    "properties": {
+                        "Print Setting": {
+                            "Layout": "Landscape",
+                            "Paper size": "ISO A4, 210 x 297 mm"
+                        }
+                    },
+                    "hasThumbnail": "true",
+                    "children": [
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A001 - Title Sheet 959510/dwfx/A001 - Title Sheet1.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "a9589c82-05f3-6298-dbee-c6157a8d8bb8",
+                            "type": "resource",
+                            "resolution": [
+                                100,
+                                100
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A001 - Title Sheet 959510/dwfx/A001 - Title Sheet2.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "e8cdf870-7bc1-5d7c-bf7b-a1cdf1c15381",
+                            "type": "resource",
+                            "resolution": [
+                                200,
+                                200
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/Resource/Sheet/A001 - Title Sheet 959510/dwfx/A001 - Title Sheet4.png",
+                            "role": "thumbnail",
+                            "mime": "image/png",
+                            "guid": "53bfab17-2fa9-e9f2-c21e-cd466b3eecd9",
+                            "type": "resource",
+                            "resolution": [
+                                400,
+                                400
+                            ],
+                            "status": "success"
+                        },
+                        {
+                            "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/e8a85368-63a1-c76e-2b8f-56fe2041d2eb_f2d/primaryGraphics.f2d",
+                            "role": "graphics",
+                            "mime": "application/autodesk-f2d",
+                            "guid": "97e8b569-a295-8750-f788-2d5067608b9c",
+                            "type": "resource",
+                            "status": "success"
+                        },
+                        {
+                            "guid": "5c7fefa9-b4c3-4bce-961a-839d1b6c444d",
+                            "type": "view",
+                            "role": "2d",
+                            "name": "Sheet: A001 - Title Sheet",
+                            "viewbox": [
+                                0,
+                                0.023889,
+                                839.999999,
+                                593.976111
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "name": "rac_basic_sample_project_svf.rvt",
+            "progress": "complete",
+            "outputType": "svf",
+            "properties": {
+                "Document Information": {
+                    "RVTVersion": "2020",
+                    "Project Name": "Sample House",
+                    "Project Number": "001-00",
+                    "Author": "Samuel Macalister",
+                    "Project Address": "Enter address here",
+                    "Project Issue Date": "Issue Date",
+                    "Project Status": "Project Status",
+                    "Building Name": "Samuel Macalister sample house design",
+                    "Client Name": "Autodesk",
+                    "Organization Name": "Autodesk",
+                    "Organization Description": ""
+                }
+            },
+            "status": "success"
+        },
+        {
+            "children": [
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/preview1.png",
+                    "role": "thumbnail",
+                    "mime": "image/png",
+                    "guid": "db899ab5-939f-e250-d79d-2d1637ce4565",
+                    "type": "resource",
+                    "resolution": [
+                        100,
+                        100
+                    ],
+                    "status": "success"
+                },
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/preview2.png",
+                    "role": "thumbnail",
+                    "mime": "image/png",
+                    "guid": "3f6c118d-f551-7bf0-03c9-8548d26c9772",
+                    "type": "resource",
+                    "resolution": [
+                        200,
+                        200
+                    ],
+                    "status": "success"
+                },
+                {
+                    "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/output/preview4.png",
+                    "role": "thumbnail",
+                    "mime": "image/png",
+                    "guid": "4e751806-0920-ce32-e9fd-47c3cec21536",
+                    "type": "resource",
+                    "resolution": [
+                        400,
+                        400
+                    ],
+                    "status": "success"
+                }
+            ],
+            "progress": "complete",
+            "outputType": "thumbnail",
+            "status": "success"
+        }
+    ],
+    "hasThumbnail": "true",
+    "progress": "complete",
+    "type": "manifest",
+    "region": "US",
+    "version": "1.0",
+    "status": "success"
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Forge Viewer Offline Demo</title>
+  <link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/7.*/style.min.css" type="text/css">
+  <script language="JavaScript" src="https://developer.api.autodesk.com/modelderivative/v2/viewers/7.*/viewer3D.min.js"></script>
+  <script src="https://bundle.run/buffer@6.0.3"></script> <!--- !<<< Required for using buffer.Buffer.from -->
+</head>
+
+<body>
+  <div id="viewer"></div>
+
+  <script>
+    Autodesk.Viewing.endpoint.getItemApi = (endpoint, derivativeUrn, api) => {
+      return window.location.href + decodeURIComponent(derivativeUrn.split('urn:adsk.viewing:fs.file:')[1]) //decode the URN and extract its path
+    }
+
+    async function _fetch(url) {
+      const resp = await fetch(url);
+      if (!resp.ok) {
+        throw new Error(await resp.text());
+      }
+      const json = await resp.json();
+      return json;
+    }
+
+    async function loadOfflineModel(manifestUrl, viewer) {
+      let manifest = await _fetch(manifestUrl);
+      let document = new Autodesk.Viewing.Document(manifest);
+      let viewable = document.getRoot().getDefaultGeometry();
+      let aecModelData = await document.downloadAecModelData();
+      //in case the aec model data we received is buffer data instead of plain JSON
+      if (aecModelData?.type == 'Buffer') {
+        aecModelData = JSON.parse(buffer.Buffer.from(aecModelData, 'hex'));
+        document.getRoot().findViewableParent().data.aec_model_data = aecModelData;
+      }
+
+      const loadOptions = { keepCurrentModels: true };
+
+      if (viewer.model) {
+        loadOptions.globalOffset = new THREE.Vector3();
+        loadOptions.placementTransform = viewer.model.getModelToViewerTransform();
+      }
+
+      await viewer.loadDocumentNode(document, viewable, loadOptions);
+      await viewer.waitForLoadDone();
+    }
+
+    const options = {
+      env: 'Local'
+    };
+
+    Autodesk.Viewing.Initializer(options, async function () {
+      const config3d = {
+        // extensions: [
+        //   'Autodesk.AEC.LevelsExtension',
+        //   'Autodesk.AEC.Minimap3DExtension'
+        // ],
+        modelBrowserStartCollapsed: true,
+        modelBrowserExcludeRoot: false
+      };
+
+      let viewer = new Autodesk.Viewing.Private.GuiViewer3D(document.getElementById('viewer'), config3d);
+
+      let startedCode = viewer.start();
+      if (startedCode > 0) {
+        console.error('Failed to create a Viewer: WebGL not supported.');
+        return;
+      }
+
+      const profileSettings = Autodesk.Viewing.ProfileSettings.clone(Autodesk.Viewing.ProfileSettings.AEC);
+      profileSettings.settings.bimWalkToolPopup = false;
+
+      const profile = new Autodesk.Viewing.Profile(profileSettings);
+      viewer.setProfile(profile);
+
+      await loadOfflineModel('./dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yYWNfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/manifest.json', viewer);
+      await loadOfflineModel('./dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9yc3RfYmFzaWNfc2FtcGxlX3Byb2plY3Rfc3ZmLnJ2dA/manifest.json', viewer);
+
+      const levelExt = await viewer.loadExtension('Autodesk.AEC.LevelsExtension', { autoDetectAecModelData: false });
+      await viewer.loadExtension('Autodesk.AEC.Minimap3DExtension', { autoDetectAecModelData: false });
+
+      const mainModel = viewer.getVisibleModels()[0];
+      const aecModelData = await Autodesk.Viewing.Document.getAecModelData(mainModel.getDocumentNode());
+
+      levelExt.setAecModelData(aecModelData, mainModel);
+    });
+  </script>
+</body>
+
+</html>
