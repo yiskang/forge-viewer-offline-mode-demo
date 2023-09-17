@@ -1,0 +1,149 @@
+{
+  "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA",
+  "derivatives": [
+    {
+      "hasThumbnail": "true",
+      "children": [
+        {
+          "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/properties.db",
+          "role": "Autodesk.CloudPlatform.PropertyDatabase",
+          "mime": "application/autodesk-db",
+          "guid": "cb73c076-d3cd-a725-754f-a64cd8c07648",
+          "type": "resource",
+          "status": "success"
+        },
+        {
+          "guid": "9c7ee634-2c29-0bca-24c4-a43eb97eaf8b",
+          "type": "geometry",
+          "role": "2d",
+          "name": "Layout1",
+          "viewableID": "Layout1",
+          "status": "success",
+          "hasThumbnail": "true",
+          "progress": "complete",
+          "children": [
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/rme_advanced_sample_project - Sheet - E201 - Unnamed-Layout1_100.png",
+              "role": "thumbnail",
+              "mime": "image/png",
+              "guid": "12753084-2cae-8ed1-d190-0a4eb0bcf358",
+              "type": "resource",
+              "resolution": [
+                100,
+                100
+              ],
+              "status": "success"
+            },
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/rme_advanced_sample_project - Sheet - E201 - Unnamed-Layout1_200.png",
+              "role": "thumbnail",
+              "mime": "image/png",
+              "guid": "8dfc10b9-e3f2-9562-3dad-98edcb4efe66",
+              "type": "resource",
+              "resolution": [
+                200,
+                200
+              ],
+              "status": "success"
+            },
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/rme_advanced_sample_project - Sheet - E201 - Unnamed-Layout1_400.png",
+              "role": "thumbnail",
+              "mime": "image/png",
+              "guid": "5f61afc0-17a8-019b-19c9-4587a6aabc6c",
+              "type": "resource",
+              "resolution": [
+                400,
+                400
+              ],
+              "status": "success"
+            },
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/4b3fe0e4-f7c6-c23d-5775-c20fc7fd79f0_f2d/primaryGraphics.f2d",
+              "role": "graphics",
+              "mime": "application/autodesk-f2d",
+              "guid": "f3daaba8-a514-05a7-0b37-23796d18a7ab",
+              "type": "resource",
+              "status": "success"
+            }
+          ]
+        },
+        {
+          "guid": "6882be48-6626-5238-d3df-94e9f0a0019d",
+          "type": "geometry",
+          "role": "2d",
+          "name": "2D View",
+          "viewableID": "Model",
+          "status": "success",
+          "hasThumbnail": "true",
+          "progress": "complete",
+          "children": [
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/rme_advanced_sample_project - Sheet - E201 - Unnamed-Model_100.png",
+              "role": "thumbnail",
+              "mime": "image/png",
+              "guid": "79ff61b7-bcf1-a5f5-9c20-00ccc5811cde",
+              "type": "resource",
+              "resolution": [
+                100,
+                100
+              ],
+              "status": "success"
+            },
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/rme_advanced_sample_project - Sheet - E201 - Unnamed-Model_200.png",
+              "role": "thumbnail",
+              "mime": "image/png",
+              "guid": "cf909d69-2bbe-c874-211a-7c1ae2276780",
+              "type": "resource",
+              "resolution": [
+                200,
+                200
+              ],
+              "status": "success"
+            },
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/rme_advanced_sample_project - Sheet - E201 - Unnamed-Model_400.png",
+              "role": "thumbnail",
+              "mime": "image/png",
+              "guid": "744453c5-bb62-e0ce-fc3a-9d809a5da114",
+              "type": "resource",
+              "resolution": [
+                400,
+                400
+              ],
+              "status": "success"
+            },
+            {
+              "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/output/d8d3c7f7-2f23-3d6e-697b-dfddafbd4300_f2d/primaryGraphics.f2d",
+              "role": "graphics",
+              "mime": "application/autodesk-f2d",
+              "guid": "db1fd45b-4dd3-adca-327c-ecdd5ed046fa",
+              "type": "resource",
+              "status": "success"
+            }
+          ]
+        }
+      ],
+      "name": "rme_advanced_sample_project - Sheet - E201 - Unnamed.dwg",
+      "progress": "complete",
+      "outputType": "svf",
+      "properties": {
+        "Document Information": {
+          "DWGVersion": "2013",
+          "Date Created": "7/1/2022 1:52:12 AM",
+          "FileSize": "25860",
+          "Last Write": "7/1/2022 1:52:16 AM",
+          "Name": "rme_advanced_sample_project - Sheet - E201 - Unnamed.dwg"
+        }
+      },
+      "status": "success"
+    }
+  ],
+  "hasThumbnail": "true",
+  "progress": "complete",
+  "type": "manifest",
+  "region": "US",
+  "version": "1.0",
+  "status": "success"
+}

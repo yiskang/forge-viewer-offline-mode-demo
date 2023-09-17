@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Forge Viewer Offline Demo</title>
+  <link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/7.*/style.min.css" type="text/css">
+  <script language="JavaScript" src="https://developer.api.autodesk.com/modelderivative/v2/viewers/7.*/viewer3D.min.js"></script>
+  <script src="https://bundle.run/buffer@6.0.3"></script> <!--- !<<< Required for using buffer.Buffer.from -->
+</head>
+
+<body>
+  <div id="viewer"></div>
+
+  <script>
+    Autodesk.Viewing.endpoint.getItemApi = (endpoint, derivativeUrn, api) => {
+      return window.location.protocol + '//' + window.location.host + '/' + decodeURIComponent(derivativeUrn.split('urn:adsk.viewing:fs.file:')[1]) //decode the URN and extract its path
+    }
+
+    async function _fetch(url) {
+      const resp = await fetch(url);
+      if (!resp.ok) {
+        throw new Error(await resp.text());
+      }
+      const json = await resp.json();
+      return json;
+    }
+
+    async function loadOfflineModel(manifestUrl, viewer) {
+      let manifest = await _fetch(manifestUrl);
+      let document = new Autodesk.Viewing.Document(manifest);
+      let viewable = document.getRoot().getDefaultGeometry();
+
+      await viewer.loadDocumentNode(document, viewable);
+    }
+
+    const options = {
+      env: 'Local'
+    };
+
+    Autodesk.Viewing.Initializer(options, async function () {
+      let viewer = new Autodesk.Viewing.Private.GuiViewer3D(document.getElementById('viewer'));
+
+      let startedCode = viewer.start();
+      if (startedCode > 0) {
+        console.error('Failed to create a Viewer: WebGL not supported.');
+        return;
+      }
+
+      await loadOfflineModel('./dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c2FuZGJveC9ybWVfYWR2YW5jZWRfc2FtcGxlX3Byb2plY3QlMjAtJTIwU2hlZXQlMjAtJTIwRTIwMSUyMC0lMjBVbm5hbWVkLnppcA/manifest.json', viewer);
+    });
+  </script>
+</body>
+
+</html>
