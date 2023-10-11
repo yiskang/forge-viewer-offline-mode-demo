@@ -13,9 +13,16 @@
   <div id="viewer"></div>
 
   <script>
-    Autodesk.Viewing.endpoint.getItemApi = (endpoint, derivativeUrn, api) => {
-      return window.location.href + decodeURIComponent(derivativeUrn.split('urn:adsk.viewing:fs.file:')[1]) //decode the URN and extract its path
-    }
+    const adskGetItem = Autodesk.Viewing.endpoint.getItemApi;
+    const localGetItem = (endpoint, derivativeUrn, api) => {
+      return window.location.protocol + '//' + window.location.host + '/' + decodeURIComponent(derivativeUrn.split('urn:adsk.viewing:fs.file:')[1]) //decode the URN and extract its path
+    };
+
+    // For loading offline svf
+    Autodesk.Viewing.endpoint.getItemApi = localGetItem;
+
+    // For loading online svf
+    //Autodesk.Viewing.endpoint.getItemApi = adskGetItem;
 
     async function _fetch(url) {
       const resp = await fetch(url);
