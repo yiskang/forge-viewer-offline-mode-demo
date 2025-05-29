@@ -28,4 +28,4 @@ Please see the [LICENSE](LICENSE) file for full details.
 
 ## Written by
 
-Eason Kang [@yiskang](https://twitter.com/yiskang), [Forge Partner Development](http://forge.autodesk.com)
+Eason Kang [@yiskang](https://twitter.com/yiskang), [Developer Advocacy and Support](http://aps.autodesk.com)
